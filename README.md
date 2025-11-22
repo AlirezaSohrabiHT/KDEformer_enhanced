@@ -114,6 +114,6 @@ Embarking on this benchmark is straightforward:
 
 This work stands on the shoulders of giants. We extend our sincere gratitude to:
 
-*   **KDEformer**: The original work and repository, a key inspiration for our enhancements: [https://github.com/AlirezaSohrabiHT/kdeformer](https://github.com/AlirezaSohrabiHT/kdeformer)
+*   **KDEformer**: The original work and repository, a key inspiration for our enhancements: [https://github.com/majid-daliri/kdeformer](https://github.com/majid-daliri/kdeformer)
 *   The invaluable Hugging Face `datasets` and `transformers` libraries for their robust tools.
 *   PyTorch, the powerful deep learning framework that underpins our entire project.
